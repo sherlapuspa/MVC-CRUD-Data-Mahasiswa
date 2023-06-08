@@ -1,0 +1,22 @@
+body 
+.single-input{
+width: 100%;
+border:1px solid #c1c1c1;
+display: flex;
+margin-bottom: 15px;
+}
+.single-input i{
+padding: 8px 16px;
+color: #000000;
+border:1px solid #c1c1c1;
+}
+.single-input input{
+border:0px solid #c1c1c1;
+width: 100%;
+outline: none;
+height: 30px;
+font-size: 18px;
+}
+.fs-4 {
+font-size: 5rem; 
+}
